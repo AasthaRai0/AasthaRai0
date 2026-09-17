@@ -183,10 +183,25 @@ ML fairness auditing platform that analyzes datasets and visualizes bias metrics
 
 ---
 
-<h2 align="left">📈 Contribution Graph</h2>
+
+<h2 align="left">🕹️ My Coding Arcade</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/40c463/AasthaRai0" alt="Aastha's GitHub Contribution Graph" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./dist/readme-arcade-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./dist/readme-arcade.svg"
+    />
+    <img
+      src="./dist/readme-arcade.svg"
+      width="920"
+      alt="Aastha's GitHub README Arcade"
+    />
+  </picture>
 </p>
 
 ---
