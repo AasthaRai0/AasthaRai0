@@ -20,10 +20,10 @@
   <a href="https://github.com/AasthaRai0">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="www.linkedin.com/in/aastha-rai-0317a6327">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/aastha2906">
+  <a href="https://leetcode.com/u/aastharai2906">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:aastharai4214@gmail.com">
@@ -162,27 +162,10 @@ ML fairness auditing platform that analyzes datasets and visualizes bias metrics
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AasthaRai0&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="Aastha's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=AasthaRai0&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaRai0&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
-
-<h2 align="left">🏅 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AasthaRai0&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
 
 <h2 align="left">🕹️ My Coding Arcade</h2>
 
@@ -215,10 +198,10 @@ ML fairness auditing platform that analyzes datasets and visualizes bias metrics
   <a href="https://github.com/AasthaRai0">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="www.linkedin.com/in/aastha-rai-0317a6327">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/aastha2906">
+  <a href="https://leetcode.com/aastharai2906">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
