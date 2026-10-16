@@ -164,10 +164,15 @@ ML fairness auditing platform that analyzes datasets and visualizes bias metrics
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AasthaRai0&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Aastha Rai GitHub Activity Graph" />
+  <img
+    src="https://raw.githubusercontent.com/AasthaRai0/AasthaRai0/main/activity-assets/contribution-graph.svg"
+    width="100%"
+    alt="Aastha Rai GitHub Contribution Graph"
+  />
 </p>
 
 ---
+
 ## 📫 Connect With Me
 
 <p align="center">
