@@ -161,28 +161,13 @@ ML fairness auditing platform that analyzes datasets and visualizes bias metrics
 
 ---
 
-<h2 align="left">🕹️ My Coding Arcade</h2>
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./dist/readme-arcade-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./dist/readme-arcade.svg"
-    />
-    <img
-      src="./dist/readme-arcade.svg"
-      width="920"
-      alt="Aastha's GitHub README Arcade"
-    />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AasthaRai0&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Aastha Rai GitHub Activity Graph" />
 </p>
 
 ---
-
 ## 📫 Connect With Me
 
 <p align="center">
